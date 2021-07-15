@@ -1,8 +1,9 @@
+import Layout from '../../components/Layout';
 const AddEvents = () => {
   return (
-    <div>
+    <Layout title='Add new Event'>
       <h1>Add events</h1>
-    </div>
+    </Layout>
   );
 };
 

@@ -1,9 +1,10 @@
-const OneEvent = () => {
+import Layout from '../../components/Layout';
+const EventPage = () => {
   return (
-    <div>
+    <Layout>
       <h1>one events - dynamically</h1>
-    </div>
+    </Layout>
   );
 };
 
-export default OneEvent;
+export default EventPage;
