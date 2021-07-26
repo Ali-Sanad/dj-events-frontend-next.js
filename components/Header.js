@@ -1,11 +1,11 @@
 import Link from 'next/link';
-import classes from '../styles/Header.module.css';
+import classes from '@/styles/Header.module.css';
 const Header = () => {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
         <Link href='/'>
-          <a>Cosplay Events</a>
+          <a>Games Events</a>
         </Link>
       </div>
 

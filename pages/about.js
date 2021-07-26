@@ -1,8 +1,8 @@
-import Layout from '../components/Layout';
+import Layout from '@/components/Layout';
 
 const About = () => {
   return (
-    <Layout title='About DJ'>
+    <Layout title='About Games Events'>
       <h1>About</h1>
     </Layout>
   );
