@@ -5,7 +5,7 @@ const Header = () => {
     <header className={classes.header}>
       <div className={classes.logo}>
         <Link href='/'>
-          <a>Games Events</a>
+          <a>DJ Events</a>
         </Link>
       </div>
 

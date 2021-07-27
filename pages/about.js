@@ -2,7 +2,7 @@ import Layout from '@/components/Layout';
 
 const About = () => {
   return (
-    <Layout title='About Games Events'>
+    <Layout title='About DJ Events'>
       <h1>About</h1>
     </Layout>
   );
